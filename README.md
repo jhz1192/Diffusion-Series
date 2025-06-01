@@ -1,14 +1,14 @@
-<div style="text-align: center;"><span style="font-size: 30px;">Diffusion系列笔记</span></div>
+## **Diffusion系列笔记** 
 
 ### 理论部分推荐阅读顺序
 1. Variational_Inference
 2. DDPM
-3. <span style="color: red;">SDE</span> 
+3. **SDE**
 4. Score-Matching
 5. DPM-Solver
 6. Flow-Matching
 
-*Notes:标红的是某部分知识的细化版本*
+*Notes: **加粗**的是某部分知识的细化版本*
 
 
 ### 论文笔记
