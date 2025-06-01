@@ -1,9 +1,10 @@
 ### 推荐阅读顺序
 1. Variational_Inference
 2. DDPM
-3. Score-Matching
-4. DPM-Solver
-5. Flow-Matching
+3. SDE
+4. Score-Matching
+5. DPM-Solver
+6. Flow-Matching
 
 ###
 CEP, LSGM, MCG为论文笔记
